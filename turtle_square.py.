@@ -1,0 +1,8 @@
+import turtle
+turtle.forward(10)
+turtle.right(90)
+turtle.forward(10)
+turtle.right(90)
+turtle.forward(10)
+turtle.right(90)
+turtle.forward(10)
